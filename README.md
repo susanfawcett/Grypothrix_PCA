@@ -29,9 +29,7 @@ included 1) the length and 2) width of terminal pinna, the
             specimens in UC and one from TAIF using a ruler and
             protractor, and from digital images of the type specimens
             using ImageJ (Rasband 2022). Only the macromorphological
-            traits could be measured from the digitized type specimens.
-
-            A principal components analysis (PCA) was performed using
+            traits could be measured from the digitized type specimeba. A principal components analysis (PCA) was performed using
             ClustVis (Metsalu & Vilo 2015) using the singular value
             decomposition (SVD) PCA with imputation for missing values.
             The plot was edited in Adobe Photoshop to indicate the
