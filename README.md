@@ -1,8 +1,10 @@
 # Grypothrix_PCA
 Morphological Dataset for Grypothrix Principal Components Analysis
 
-Dataset used in: Two New Species of Thelypteridaceae from the Solomon Islands
-by Susan Fawcett, Alan Smith and Cheng-Wei Chen, published in the American Fern Journal
+Dataset used in: 
+Two New Species of Thelypteridaceae from the Solomon Islands
+Susan Fawcett, Alan Smith and Cheng-Wei Chen
+published in the American Fern Journal
 
 The present study is based on examination of morphological traits using
 herbarium material, including specimens from UC, TAIF, VT and MICH, and
