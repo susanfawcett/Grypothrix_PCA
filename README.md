@@ -39,3 +39,5 @@ included 1) the length and 2) width of terminal pinna, the
 
 The CSV file has the data used in this analysis, and the figures
 represent the PCA analysis and heatmap.
+
+Data may also be accessed from: https://biit.cs.ut.ee/clustvis/?s=XlMOpjzaRPuGTXx
