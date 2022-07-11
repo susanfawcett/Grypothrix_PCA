@@ -12,12 +12,12 @@ Biodiversity Information Facility (GBIF 2022), and informed by molecular
 phylogenetic data published by Fawcett et al. (2021), available on Dryad
 (Fawcett et al. 2022).
 
-            Morphological trait measurements were made from 19
-            accessions of Grypothrix, representing G. cuspidata, G.
-            liukiuense, G. ramosii, and the putative new species. Ten
-            macromorphological traits representing continuous variables
-            included 1) the length and 2) width of terminal pinna, the
-            3) length and 4) width of proximal pinnae (excluding
+Morphological trait measurements were made from 19
+accessions of Grypothrix, representing G. cuspidata, G.
+liukiuense, G. ramosii, and the putative new species. Ten
+macromorphological traits representing continuous variables
+included 1) the length and 2) width of terminal pinna, the
+3) length and 4) width of proximal pinnae (excluding
             pinna-stalk), length to width ratio of 5) terminal and 6)
             proximal pinnae, and 7) ratio of the length of the terminal
             pinna to that of the proximal pinna, 8) number of pinna
